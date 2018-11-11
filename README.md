@@ -2,7 +2,7 @@
 
 I am looking for a role in which I can grow as a Full Stack Junior Developer. Having recently completed Makers Academy, an intensive sixteen week programming course, I’ve fallen in love with writing beautiful, clean code. 
 
-My background includes several years of working in and with technology start ups.  Because of this experience, I understand wider business context, allowing me to be more proactive and engaged.  Used to taking full ownership, I will care about your project and will hang in there when the going gets tough.
+My background includes several years of working in and with technology start ups.  Because of this experience, I understand wider business context, which means I am proactive and engaged.  Used to taking full ownership, I will care about your project and will hang in there when the going gets tough.
 
 **Tech skills**: Ruby, Rails, JavaScript, HTML, CSS (to add)
 
