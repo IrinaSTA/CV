@@ -4,7 +4,7 @@ I am looking for a role in which I can grow as a Full Stack Junior Developer. Ab
 
 My background includes several years of working in and with technology start ups.  Because of this experience, I understand wider business context, which means I am proactive and engaged.  Used to taking full ownership, I will care about your project and will hang in there when the going gets tough.
 
-**Technical Skills**: Ruby, Ruby on Rails, JavaScript, HTML5, CSS, PostgreSQL, API, TDD, Agile, Git
+**Technical Skills**: Ruby, Ruby on Rails, JavaScript, HTML5, CSS, PostgreSQL, API, TDD, Agile, Git, Swift, XCode
 
 ## Projects
 
@@ -13,6 +13,7 @@ My background includes several years of working in and with technology start ups
 |Gracebook| A clone of Facebook. Currently building with a team of 4. A two week project in Weeks 8 and 9 of Makers. | Ruby on Rails, ActiveRecord ORM, Travis, Heroku, BCrypt | Rspec, Capybara |
 |MakersBNB|A clone of AirBNB. Built with a team of 5 during Week 6 of Makers.| Ruby, Sinatra, PostgreSQL, BCrypt, HTML/CSS| RSpec, Capybara|
 |Bowling Scorecard| A single page bowling scorecard. Built solo over two weekends, for weekend homework at Makers in weeks 5 and 6. | Javascript, JQuery, HTML/CSS | Jasmine |
+|Swiftcards| An iOS app that simulates a deck of cards. It allows two players to connect their phones and play any game of cards they like! Built for a final project at Makers. | Swift, XCode IDE, Travis CI, SwiftLint | XCTest |
 
 
 
