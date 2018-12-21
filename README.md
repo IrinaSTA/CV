@@ -12,7 +12,6 @@ My background includes several years of working in and with technology start ups
 |---------|---------|--------------|---------|
 | [Swiftcards](https://github.com/IrinaSTA/swiftcards) | An iOS app that simulates a deck of cards. It allows two players to connect their phones and play any game of cards they like. Built for a final project at Makers in Weeks 11 and 12. | Swift, XCode IDE, Travis | XCTest |
 | [Gracebook](https://github.com/rbbri/acebook-gracebook) | A clone of Facebook. Built on a team of 4 in Weeks 8 and 9 of Makers. | Ruby on Rails, ActiveRecord ORM, Travis, Heroku, BCrypt | Rspec, Capybara |
-| [MakersBNB](https://github.com/jebax/MakersBNB) | A clone of AirBNB. Built with a team of 5 during Week 6 of Makers.| Ruby, Sinatra, PostgreSQL, BCrypt, HTML/CSS | RSpec, Capybara |
 | [Bowling Scorecard](https://github.com/IrinaSTA/bowling-challenge) | A single page bowling scorecard. Built solo over two weekends, for weekend homework at Makers in weeks 5 and 6. | Javascript, JQuery, HTML/CSS | Jasmine |
 
 
