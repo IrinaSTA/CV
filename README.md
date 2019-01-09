@@ -64,6 +64,6 @@ From 2007 onwards, I pursued part-time work opportunities that fit around my you
 
 ## Interests
 * Online short course enthusiast: completed UX, Ninja Writing, Ethical Theory, American Constitution, among others
-* Devotee of on-again, off-again exercise: road cycling, hot yoga, weightlifting, indoor climbing, trapeze - you name it
+* Lover of all sorts of exercise: road cycling, hot yoga, weightlifting, indoor climbing, trapeze - you name it
 * Perfume aficionado
 * Native speaker of Russian
