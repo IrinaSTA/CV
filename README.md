@@ -19,7 +19,7 @@ My background includes several years of working in and with technology companies
 
 **"Get things done" mentality** - resourceful and persistent, I accomplish objectives on my own initiative and with little guidance. In my last job and having no experience in software development, I took on product management in a bootstrapped start up of four.
 
-**Clear communication** - I am a straight-talker, who loves clarity and wins colleagues over with humour, good will and a focus on business objectives at hand. I’ve built excellent working relationships in every role I’ve had.
+**Clear communication** - I love clarity and win colleagues over with humour, good will and a focus on business objectives at hand. I’ve built excellent working relationships in every role I’ve had.
 
 ## Experience
 
