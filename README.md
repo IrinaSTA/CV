@@ -29,7 +29,7 @@ My background includes several years of working in and with technology companies
 * Team of four with the CEO and two developers. Joined during early stages of product redesign.
 * Launched product in November 2016 and managed the onboarding of first customers.
 * Day-to-day, wrote user stories, designed the UX, ran daily stand ups, set sprints, feature tested and demo-ed to prospective customers.
-* Wrote the business plan, fundraised, desgined and launched product website.
+* Wrote the business plan, desgined and launched product website.
 
 From 2007 onwards, I pursued part-time work opportunities that fit around my young children. This included:
 
