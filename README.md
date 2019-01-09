@@ -1,6 +1,6 @@
 # Irina Baldwin
 
-I am looking for a role in which I can grow as a Full Stack Junior Developer. About to complete Makers Academy, an intensive sixteen week programming course, I’ve fallen in love with writing beautiful, clean code.
+I am looking for a role in which I can grow as a Full Stack Junior Developer. Having recently completed Makers Academy, an intensive sixteen week programming course, I’ve fallen in love with writing beautiful, clean code.
 
 My background includes several years of working in and with technology companies.  Because of this experience, I understand wider business context, which means I am proactive and engaged.  Used to taking full ownership, I will care about your project and will hang in there when the going gets tough.
 
