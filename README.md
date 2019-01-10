@@ -17,7 +17,7 @@ In  my last job, I took on product management in a bootstrapped startup of four,
 
 ## Soft Skills
 
-**"Get things done" mentality** - resourceful and persistent, I accomplish objectives on my own initiative and with little guidance. In my last job and having no experience in software development, I took on product management in a bootstrapped start up of four.
+**"Get things done" mentality** - pragmatic, resourceful and persistent, I accomplish objectives on my own initiative and with little guidance. In my last job and having no experience in software development, I took on product management in a bootstrapped start up of four.
 
 **Clear communication** - I value organisation, simplicity and clarity and win colleagues over with humour, good will and a focus on business objectives at hand. I’ve built excellent working relationships in every role I’ve had.
 
