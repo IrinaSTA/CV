@@ -28,7 +28,7 @@ My background includes several years of working in and with technology companies
 * Joined a team of two developers during early stages of product redesign of Opsimize, built on Mendix platform as a service.
 * Responsible for launching Opsimize as a commercially viable product.
 * Put in place and carried out the following practices: user stories, wireframing, sprints, story points, backlog management, bug tracking, documented feature testing.
-* Launched the product in Nov ’16 and managed the onboarding of first customers. 
+* Launched the product in November 2016 and managed the onboarding of first customers. 
 * Wider responsibilities included writing a business plan, setting pricing and designing and launching product website.
 
 From 2007 onwards, I pursued part-time work opportunities that fit around my young children. This included:
