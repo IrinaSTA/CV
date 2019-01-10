@@ -23,7 +23,7 @@ My background includes several years of working in and with technology companies
 
 ## Experience
 
-**Product Manager: Opsimize** (April 2015 to June 2017), **restaurant management software start up**
+**Product Manager: Opsimize** (April 2015 to June 2017), restaurant management **software start up**
 
 * Joined a team of two developers during early stages of product redesign of Opsimize, built on Mendix platform as a service.
 * Responsible for launching Opsimize as a commercially viable product.
