@@ -1,8 +1,6 @@
 # Irina Baldwin
 
-I am looking for a role in which I can grow as a Full Stack Junior Developer. Having recently completed Makers Academy, an intensive sixteen week programming course, I’ve fallen in love with writing beautiful, clean code.
-
-My background includes several years of working in and with technology companies.  Because of this experience, I understand wider business context, which means I am proactive and engaged.  Used to taking full ownership, I will care about your project and will hang in there when the going gets tough.
+Junior Full Stack Developer. Recent graduate of Makers Academy - an intensive 16 week programming bootcamp. Career changer with prior experience in finance, including venture capital and private equity financing of technology companies. Solid development fundamentals coupled with appreciation of wider business context.
 
 **Technical Skills**: Ruby, Ruby on Rails, JavaScript, HTML5, CSS, PostgreSQL, API, TDD, Agile, Git, Swift, XCode
 
