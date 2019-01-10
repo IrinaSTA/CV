@@ -37,14 +37,14 @@ From 2007 onwards, I pursued part-time work opportunities that fit around my you
   * Responsible for setting up regular sales reporting. Asked to take over as a product manager for Opsimize.
 
   **Business Consultant: Church Farm, Ardeley** (September 2012 to February 2014), sole-ownership **organic farm**
-* Moved the company from pen and paper records to cloud based systems for accounting, point of sale and stock tracking: sourced, set up and integrated required hardwire and software, set up processes, trained staff.
-* Assessed profitability of every item for sale at farm shop, cafe and pub, resulting in re-formulation of menus and elimination or repricing of loss-making products.
-* Put regular stock taking in place.
+  * Moved the company from pen and paper records to cloud based systems for accounting, point of sale and stock tracking:    sourced, set up and integrated required hardwire and software, set up processes, trained staff.
+  * Assessed profitability of every item for sale at farm shop, cafe and pub, resulting in re-formulation of menus and elimination or repricing of loss-making products.
+  * Put regular stock taking in place.
 
   **Business Consultant: TalentDrive** (October 2006 to May 2007), funded **human resources technology start up**
-* Retained to find a company suitable for an acquisition. In three months, sourced and reviewed close to 60 relevant opportunities.
-* Conducted full financial and operational due diligence for an acquisition target.
-* Asked to stay on to work with the CEO in successfully launching TalentDrive, a human services technology start up: built a detailed model of the business and forecasted financial performance and cash flow needs, resulting in raising of $1.12 million of equity financing.
+  * Retained to find a company suitable for an acquisition. In three months, sourced and reviewed close to 60 relevant opportunities.
+  * Conducted full financial and operational due diligence for an acquisition target.
+  * Asked to stay on to work with the CEO in successfully launching TalentDrive, a human services technology start up: built a detailed model of the business and forecasted financial performance and cash flow needs, resulting in raising of $1.12 million of equity financing.
 
 **Venture Capital/Private Equity Associate**: William Blair Capital Partners (October 2005 to September 2006), **venture capital and private equity fund** focused on Technology, Consumer and Business Services sectors
 * Pulled together from scratch detailed performance analysis of seven prior investment funds, totalling over $900 million in capital and 160 deals.
