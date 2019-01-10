@@ -2,6 +2,8 @@
 
 Junior Full Stack Developer. Recent graduate of Makers Academy - an intensive 16 week programming bootcamp. Career changer with prior experience in finance, including venture capital and private equity financing of technology companies. Solid development fundamentals coupled with appreciation of wider business context.
 
+I love writing code and I am looking for a place to grow as a Junior Dev.
+
 **Technical Skills**: Ruby, Ruby on Rails, JavaScript, HTML5, CSS, PostgreSQL, API, TDD, Agile, Git, Swift, XCode
 
 ## Projects
